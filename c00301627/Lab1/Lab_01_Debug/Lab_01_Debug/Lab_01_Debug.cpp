@@ -32,7 +32,7 @@ public:
     }
 
     double divide(int a, int b) {
-        return a / b;   //<BUG_4> 
+        return (float)a / (float)b;   //<BUG_4> fixed: to get accurate values in this case, division should be with float and not ints
     }
 };
 
