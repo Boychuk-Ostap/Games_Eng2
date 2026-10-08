@@ -1,6 +1,6 @@
 // Lab 02 - Testing a three-branch classifier
-// Name  :
-// Student ID:
+// Name  : Ostap Boychuk
+// Student ID: c00301627
 //
 // Task: fill in three tests inside runTests(), one per branch.
 //
